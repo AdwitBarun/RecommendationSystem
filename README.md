@@ -35,7 +35,8 @@ The project consists of several components:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
+dataset:
+https://www.kaggle.com/datasets/atharvjairath/flipkart-ecommerce-dataset
 ---
 
 **Note:** This README provides a high-level overview. Please refer to the scripts and comments within the code for detailed implementation and usage instructions.
