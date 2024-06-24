@@ -32,10 +32,6 @@ The project consists of several components:
 6. Analyze the generated insights and recommendations.
 
 
-## Contributing
-
-Feel free to contribute by improving the existing codebase, adding new features, or addressing issues.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
